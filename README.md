@@ -1,5 +1,5 @@
 ### simple java code to look for open /.git directory of given urls.
-
+#### it may be slow but it gets job done.
 
 #### Steps:
 1. $ javac gitHunter.java
